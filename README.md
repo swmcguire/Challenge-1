@@ -8,7 +8,7 @@ I was recently hired by a marketing agency to debug the homepage of their websit
 
 By updating the HTML and optimizing SEO we will not only make for a better user experience for users with special needs but we will also show up in more local SEO and Marketing searches.
 
-On top of helping my new employer it also helped me to get more experience in coding/ de-bugging websites which will allow me to grow in my new role.
+On top of helping my new employer it also helped me to get more experience in coding/de-bugging websites which will allow me to grow in my new role.
 
 ## Installation
 
